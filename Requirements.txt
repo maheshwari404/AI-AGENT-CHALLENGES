@@ -1,0 +1,6 @@
+pandas>=1.4
+pdfplumber>=0.7
+pytest>=7.0
+click>=8.0
+python-dotenv>=1.0
+openai>=1.0   # optional, for LLM-powered agent if you have a key
